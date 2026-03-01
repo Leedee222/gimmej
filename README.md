@@ -1,4 +1,4 @@
-**Florelo**
+**Gimmej**
 An Infinite Momentum Platformer
 
 **Features**
